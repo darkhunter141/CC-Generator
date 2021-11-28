@@ -1,6 +1,6 @@
 # Random Test Credit Card Numbers Generator
  
-# 100% Legit
+## 100% Legit
 
 # Note
 
