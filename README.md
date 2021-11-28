@@ -1,6 +1,15 @@
 # Random Test Credit Card Numbers Generator
+ ```
+ pip install pyfiglet
+ apt install python
+ gitclone https://github.com/darkhunter141/CC-Generator
+ cd CC-Generator
+ python main.py
+ 
+ ```
  
 ## 100% Legit
+
 
 # Note
 
